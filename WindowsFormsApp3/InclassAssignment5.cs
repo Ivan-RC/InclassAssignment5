@@ -8,6 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//This is my own work.
+//Ivan Rivas
+
+
 namespace WindowsFormsApp3
 {
     public partial class Form1 : Form
